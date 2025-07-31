@@ -16,7 +16,7 @@
 - 🎓 [CGPA Calculator](https://github.com/yourusername/CGPACalculator)  
 
 ## 📫 Connect With Me
-- LinkedIn: (www.linkedin.com/in/khalil-khan-07314b359)
+- LinkedIn: www.linkedin.com/in/khalil-khan-07314b359
 - Email: khlilkhn911@gmail.com
 
 ---
