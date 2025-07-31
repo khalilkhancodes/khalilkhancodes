@@ -10,8 +10,10 @@
 
 ## 📌 Featured Projects
 - 🔢 [Hybrid Calculator in C++](https://github.com/yourusername/HybridCalculator)
-- 🔐 [Login System with Hashing](https://github.com/yourusername/LoginSystem)
+- 🔐 [Tic Tac Toe](https://github.com/yourusername/LoginSystem)
 - 🌐 [Portfolio Website](https://github.com/yourusername/Portfolio)
+- ✨ [Random Quote Generator](https://github.com/yourusername/RandomQuoteGenerator)  
+- 🎓 [CGPA Calculator](https://github.com/yourusername/CGPACalculator)  
 
 ## 📫 Connect With Me
 - LinkedIn: (www.linkedin.com/in/khalil-khan-07314b359)
