@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Khalil 👋
 
-<!--
-**khalilkhancodes/khalilkhancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 C++ & Frontend Developer  
+🚀 I love building clean, responsive apps & solving real-world problems with code.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Languages: `C++`, `HTML`, `CSS`, `JavaScript`
+- Tools: `Git`, `GitHub`, `VS Code`, `Bootstrap`
+- Learning: `Modern C++`,`React`, `Data Structures and algorithm`, `APIs`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔢 [Hybrid Calculator in C++](https://github.com/yourusername/HybridCalculator)
+- 🔐 [Login System with Hashing](https://github.com/yourusername/LoginSystem)
+- 🌐 [Portfolio Website](https://github.com/yourusername/Portfolio)
+
+## 📫 Connect With Me
+- LinkedIn: (www.linkedin.com/in/khalil-khan-07314b359)
+- Email: khlilkhn911@gmail.com
+
+---
+
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
